@@ -1,21 +1,21 @@
-- DOMAIN-KEYWORD,infuse.im
-- DOMAIN-KEYWORD,stream-link.org
-- DOMAIN-KEYWORD,adguard.com
-- DOMAIN-KEYWORD,amazonaws.com
-- DOMAIN-KEYWORD,funke.video
-- DOMAIN,api.revenuecat.com
-- DOMAIN-KEYWORD,yshmzmc
-- DOMAIN-KEYWORD,fileball
-- IP-CIDR,219.78.234.119/32
-- DOMAIN-KEYWORD,cgtn
-- DOMAIN-KEYWORD,hxtv
-- DOMAIN, live.goodiptv.club
-- DOMAIN, cntv.sbs
-- DOMAIN,live.aptvapp.com
-- DOMAIN,epg.112114.xyz
-- DOMAIN-KEYWORD,ipify.org
-- DOMAIN-KEYWORD,ip.sb
-- DOMAIN-KEYWORD,v1.mk
-- DOMAIN-KEYWORD,saejeuj.com
-- DOMAIN-KEYWORD,cvhlscdn.com
-- GEOIP,CN
+DOMAIN-KEYWORD,infuse.im
+DOMAIN-KEYWORD,stream-link.org
+DOMAIN-KEYWORD,adguard.com
+DOMAIN-KEYWORD,amazonaws.com
+DOMAIN-KEYWORD,funke.video
+DOMAIN,api.revenuecat.com
+DOMAIN-KEYWORD,yshmzmc
+DOMAIN-KEYWORD,fileball
+IP-CIDR,219.78.234.119/32
+DOMAIN-KEYWORD,cgtn
+DOMAIN-KEYWORD,hxtv
+DOMAIN, live.goodiptv.club
+DOMAIN, cntv.sbs
+DOMAIN,live.aptvapp.com
+DOMAIN,epg.112114.xyz
+DOMAIN-KEYWORD,ipify.org
+DOMAIN-KEYWORD,ip.sb
+DOMAIN-KEYWORD,v1.mk
+DOMAIN-KEYWORD,saejeuj.com
+DOMAIN-KEYWORD,cvhlscdn.com 
+GEOIP,CN
