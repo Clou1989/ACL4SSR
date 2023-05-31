@@ -1,1 +1,9 @@
-
+scriptings:
+  - http_response:
+      name: Bili1080P
+      match: "^https?:\\/\\/app\\.bilibili\\.com\\/x\\/v2\\/account\\/myinfo\\?"
+      script_url: "https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/bilibili_diy.js"
+      body_required: true
+mitm:
+  hostnames:
+    - app.bilibili.com
