@@ -1,7 +1,8 @@
 # 内容：Github
-# 数量：7条
+# 数量：8
+DOMAIN,live.github.com
 DOMAIN-KEYWORD,githubusercontent
-DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,github.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
