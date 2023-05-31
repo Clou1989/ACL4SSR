@@ -1,5 +1,6 @@
 # 内容：Apple 
-# 数量：34
+# 数量：35
+DOMAIN,gateway.icloud.com
 DOMAIN.mask.icloud.com
 DOMAIN,metrics.icloud.com
 DOMAIN,mask.apple-dns.net
