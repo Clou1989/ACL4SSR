@@ -1,8 +1,11 @@
 # 内容：Apple 
-# 数量：31
+# 数量：34
+DOMAIN.mask.icloud.com
+DOMAIN,metrics.icloud.com
+DOMAIN,mask.apple-dns.net
 DOMAIN,bag.itunes.apple.com
 DOMAIN-KEYWORD,icloud.com
-DOMAIN,courier.push.apple.com
+DOMAIN-KEYWORD,courier.push.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
